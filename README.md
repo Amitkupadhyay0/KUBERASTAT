@@ -5,4 +5,4 @@ Kuberastats: A comprehensive library for statistical finance, offering tools for
 </p>
 <div style="height: 18px; background-color: orange; margin-top: 40px; margin-bottom: 40px;"></div>
 
-# Table of Contents
+#### Table of Contents
