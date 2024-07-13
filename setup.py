@@ -1,12 +1,12 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='kuberastats',
-    version='0.1',
+    name='KuberaStats',
     packages=find_packages(),
     install_requires=[
         'numpy',
         'pandas',
+        'matplotlib'
     ],
     author='AMIT KUMAR UPADHYAY',
     description='A library for statistical finance calculations.',
