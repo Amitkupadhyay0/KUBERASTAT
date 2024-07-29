@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='KuberaStats',
+    name='Codes',
     packages=find_packages(),
     install_requires=[
         'numpy',
