@@ -1,0 +1,9 @@
+README.md
+setup.py
+Kuberastat/KuberasStats.py
+Kuberastat/__init__.py
+Kuberastat.egg-info/PKG-INFO
+Kuberastat.egg-info/SOURCES.txt
+Kuberastat.egg-info/dependency_links.txt
+Kuberastat.egg-info/requires.txt
+Kuberastat.egg-info/top_level.txt
